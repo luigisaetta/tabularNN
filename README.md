@@ -1,5 +1,5 @@
 # TabularNN
-This repository contains my research work on tools for effectively using Deep Learning with Tabulare Data
+This repository contains my research work on tools for effectively using **Deep Learning** with **Tabular Data**
 
 ## Features:
 * Examples using PyTorch TabNet implementation
