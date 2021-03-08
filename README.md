@@ -6,6 +6,6 @@ This repository contains my research work on tools for effectively using **Deep 
 * FastAI TabularPandas
 
 ## Datasets used in examples:
-* The dataset used in the competition: [Tabula Playground March 2021](https://www.kaggle.com/c/tabular-playground-series-mar-2021)
+* The dataset used in the competition: [Tabular Playground March 2021](https://www.kaggle.com/c/tabular-playground-series-mar-2021)
 *
 
